@@ -12,7 +12,6 @@ A modern, responsive portfolio showcasing my work as an **AI Engineer**, **Web D
 - **Styling:** Tailwind CSS, Lucide React
 - **Build Tool:** Vite
 - **Deployment:** Netlify
-- **Contact Form:** EmailJS (ready for setup)
 
 ---
 
